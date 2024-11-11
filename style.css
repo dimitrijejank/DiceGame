@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+.naslov {
+    color: rgb(67, 216, 152);
+    font-size: 6rem;
+    font-family: 'Lobster', cursive;
+    font-weight: bold;
+    text-shadow: 2px;
+    text-shadow: 6px 6px #000000;
+}
+
+.cont {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+
+}
+
+.kocka {
+    display: inline-block;
+    text-align: center;
+}
+
+img{
+    width: 80%;
+}
+
+h2 {
+    font-size: 2rem;
+    color: rgb(67, 216, 152);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.reklama {
+    color: beige;
+    text-align: center;
+    margin-top: 40px;
+}
